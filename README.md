@@ -1,2 +1,6 @@
-# ativi-csharp
-Primeiras atividades C-Sharp Curso Recode Pro
+# Primeira atividades C-Sharp
+
+<br>
+
+Meu primeiro contato com c-Sharp.
+Atividades feitas no VS Code. 
