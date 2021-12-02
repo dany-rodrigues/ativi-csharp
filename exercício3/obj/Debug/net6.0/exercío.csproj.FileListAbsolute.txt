@@ -1,0 +1,15 @@
+C:\Users\Remakker\Desktop\exercío\obj\Debug\net6.0\exercío.csproj.AssemblyReference.cache
+C:\Users\Remakker\Desktop\exercío\obj\Debug\net6.0\exercío.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Remakker\Desktop\exercío\obj\Debug\net6.0\exercío.AssemblyInfoInputs.cache
+C:\Users\Remakker\Desktop\exercío\obj\Debug\net6.0\exercío.AssemblyInfo.cs
+C:\Users\Remakker\Desktop\exercío\obj\Debug\net6.0\exercío.csproj.CoreCompileInputs.cache
+C:\Users\Remakker\Desktop\exercío\bin\Debug\net6.0\exercío.exe
+C:\Users\Remakker\Desktop\exercío\bin\Debug\net6.0\exercío.deps.json
+C:\Users\Remakker\Desktop\exercío\bin\Debug\net6.0\exercío.runtimeconfig.json
+C:\Users\Remakker\Desktop\exercío\bin\Debug\net6.0\exercío.dll
+C:\Users\Remakker\Desktop\exercío\bin\Debug\net6.0\ref\exercío.dll
+C:\Users\Remakker\Desktop\exercío\bin\Debug\net6.0\exercío.pdb
+C:\Users\Remakker\Desktop\exercío\obj\Debug\net6.0\exercío.dll
+C:\Users\Remakker\Desktop\exercío\obj\Debug\net6.0\ref\exercío.dll
+C:\Users\Remakker\Desktop\exercío\obj\Debug\net6.0\exercío.pdb
+C:\Users\Remakker\Desktop\exercío\obj\Debug\net6.0\exercío.genruntimeconfig.cache

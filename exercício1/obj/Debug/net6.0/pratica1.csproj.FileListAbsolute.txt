@@ -1,0 +1,15 @@
+C:\Users\Remakker\Desktop\pratica1\bin\Debug\net6.0\pratica1.exe
+C:\Users\Remakker\Desktop\pratica1\bin\Debug\net6.0\pratica1.deps.json
+C:\Users\Remakker\Desktop\pratica1\bin\Debug\net6.0\pratica1.runtimeconfig.json
+C:\Users\Remakker\Desktop\pratica1\bin\Debug\net6.0\pratica1.dll
+C:\Users\Remakker\Desktop\pratica1\bin\Debug\net6.0\ref\pratica1.dll
+C:\Users\Remakker\Desktop\pratica1\bin\Debug\net6.0\pratica1.pdb
+C:\Users\Remakker\Desktop\pratica1\obj\Debug\net6.0\pratica1.csproj.AssemblyReference.cache
+C:\Users\Remakker\Desktop\pratica1\obj\Debug\net6.0\pratica1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Remakker\Desktop\pratica1\obj\Debug\net6.0\pratica1.AssemblyInfoInputs.cache
+C:\Users\Remakker\Desktop\pratica1\obj\Debug\net6.0\pratica1.AssemblyInfo.cs
+C:\Users\Remakker\Desktop\pratica1\obj\Debug\net6.0\pratica1.csproj.CoreCompileInputs.cache
+C:\Users\Remakker\Desktop\pratica1\obj\Debug\net6.0\pratica1.dll
+C:\Users\Remakker\Desktop\pratica1\obj\Debug\net6.0\ref\pratica1.dll
+C:\Users\Remakker\Desktop\pratica1\obj\Debug\net6.0\pratica1.pdb
+C:\Users\Remakker\Desktop\pratica1\obj\Debug\net6.0\pratica1.genruntimeconfig.cache
